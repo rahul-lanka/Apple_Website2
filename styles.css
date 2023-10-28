@@ -1,0 +1,49 @@
+header{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.header{
+    background-color: #303030;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    justify-content: center;
+    position: fixed;
+    top: 0;
+}
+
+#header_buttons{
+    /* gap: 6vw; */
+    margin-left: 3vw;
+    color: white;
+    justify-content: center;
+}
+
+.header2{
+    display: flex;
+    margin-top: 19vh;
+}
+
+#header_buttons2{
+    margin-left: 3vw;
+    justify-content: center;
+}
+
+.center{
+    margin-left: 45vw;
+}
+.center1{
+    margin-left: 43vw;
+}
+.center2{
+    margin-left: 38.5vw;
+}
+.center_content1{
+    background-color: black;
+    color: white;
+}
+.images1{
+    width: 104vw;
+}
